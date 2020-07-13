@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="center">
+	<a href="https://github.com/louisnelza"><img src="https://img.shields.io/github/followers/louisnelza.svg?label=GitHub&style=social" alt="GitHub"></a>
+	<a href="https://twitter.com/LouisNel"><img src="https://img.shields.io/twitter/follow/LouisNel?label=Twitter&style=social" alt="Twitter"></a>
+	<a href="https://www.linkedin.com/in/louis-nel-za"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
+</p>
